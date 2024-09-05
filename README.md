@@ -1,4 +1,5 @@
 # - 👋 Hi, I’m @theCoderGirl247
+
 - 👀 I’m interested in Blochchain, Web 3.0
 - 🌱 I’m currently learning Rust, Solidity and MERN
 - 📫 How to reach me www.linkedin.com/in/aashi-shukla-04591b217

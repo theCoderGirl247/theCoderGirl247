@@ -17,8 +17,9 @@
 ![React](https://img.shields.io/badge/-React-007ACC?logo=react&logoColor=white)
 
 ### How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aashi-blue)](https://www.linkedin.com/in/aashi-shukla-04591b217/)
-[![Email](https://img.shields.io/badge/Email-aashi41207@gmail.com-blue?style=flat&logo=gmail)](mailto:aashi@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aashi-shukla-04591b217/)
+[![Email](https://img.shields.io/badge/-Mail-blue?style=flat&logo=gmail)](mailto:aashi41207@gmail.com)
+
 
 <!---
 theCoderGirl247/theCoderGirl247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

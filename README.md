@@ -32,7 +32,7 @@
 
 > "Any sufficiently advanced technology is indistinguishable from magic." - Arthur C. Clarke
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=your_username)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=theCoderGirl247)
 <!---
 theCoderGirl247/theCoderGirl247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -1,7 +1,8 @@
 
+
 #  👋 Hi, I’m @theCoderGirl247
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theCoderGirl247&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=theCoderGirl247&theme=radical)](https://git.io/streak-stats)
 
 - 🌱 Blockchain Developer | NFT Enthusiast | Smart Contracts
 - 💻 Working on building decentralized applications

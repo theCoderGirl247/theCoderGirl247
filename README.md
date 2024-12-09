@@ -4,7 +4,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=theCoderGirl247&theme=radical)](https://git.io/streak-stats)
 
-- 🌱 Blockchain Developer | NFT Enthusiast | Smart Contracts
+- 🌱 Developer
 - 💻 Working on building decentralized applications
 - 🚀 Exploring new technologies in Web3
 - 📫 How to reach me www.linkedin.com/in/aashi-shukla-04591b217

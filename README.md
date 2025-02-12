@@ -4,8 +4,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=theCoderGirl247&theme=radical)](https://git.io/streak-stats)
 
-- 🌱 Developer
-- 💻 Working on building decentralized applications
+- 🌱 Front-end Engineer | AI Enthusiast | Smart Contracts
+- 💻 Working on building decentralized applications that are user-friendly and reliable
 - 🚀 Exploring new technologies in Web3
 - 📫 How to reach me www.linkedin.com/in/aashi-shukla-04591b217
 - 😄 Pronouns: She/her
